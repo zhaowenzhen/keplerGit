@@ -6,6 +6,7 @@ public class GitTest {
 		System.out.println("nnnnnnn");
 		System.out.println("Aaaaaa");
 		System.out.println("Bbbbbb");
+		System.out.println("this is first branch");		
 	}
 
 }
