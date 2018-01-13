@@ -8,6 +8,7 @@ public class GitTest {
 		System.out.println("Bbbbbb");
 		System.out.println("this is first branch");		
 		System.out.println("do you want to play bsketball?");		
+		System.out.println("this is a sunny day");		
 	}
 
 }
